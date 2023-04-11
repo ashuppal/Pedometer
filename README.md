@@ -10,5 +10,5 @@ This is a simple pedometer app. It uses the Expo Pedometer to detect steps and d
 
 ![Home page](./assets/HomePage.jpg)
 
-![QR](./assets/Screen%20Shot%202023-04-10%20at%206.57.46%20PM.png)
+![QR](./https://github.com/ashuppal/pedometer/blob/main/assets/QR.png)
 
