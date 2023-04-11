@@ -5,7 +5,7 @@ This is a simple pedometer app. It uses the Expo Pedometer to detect steps and d
 
 
 
-![QR code](./assets/QR.jpg)
-![QR](./assets/QR.png)
+
+![QR](./assets/code.png)
 
 ![Home page](./assets/HomePage.jpg)
